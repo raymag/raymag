@@ -7,6 +7,6 @@
 
 ### You can find me on:
 - [Twitter](https://twitter.com/C_IMagno)
-- [Linkedin](www.linkedin.com/in/carlos-magno-2002)
+- [Linkedin](https://www.linkedin.com/in/carlos-magno-2002/)
 - [Instagram](https://www.instagram.com/blayde88/)
 - [Dev](https://dev.to/raymag)
