@@ -5,6 +5,9 @@
 <h1 align="center">Hi There! 👋</h1>
 <p> I'm a Web Developer from Brazil. I have experience with Python, JavaScript, PHP, NodeJS and ReactJS. I love building systems, tools and webpages that can be helpful for other people. Nice to meet you!</p>
 
+![Raymag's github stats](https://github-readme-stats.vercel.app/api?username=raymag&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raymag&layout=compact)](https://github.com/raymag)
+
 ### You can find me on:
 - [Twitter](https://twitter.com/C_IMagno)
 - [Linkedin](https://www.linkedin.com/in/carlos-magno-2002/)
