@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aCWilym9nS7Q2I0/giphy.gif" >
+<img src="https://media.giphy.com/media/5SAwKY8VWUlR6PC2NI/giphy.gif" >
 </p>
 
 <h1 align="center">Hi There! 👋</h1>
-<p> I'm a Web Developer from Brazil. I have experience with Python, JavaScript, PHP, NodeJS and ReactJS. I love building systems, tools and webpages that can be helpful for other people. Nice to meet you!</p>
+<p> I'm Magno, a developer from Brazil with the passion of building systems, tools and ideas that can be helpful for people. I have experience with backend and frontend applications and I recently got into android development. 
+  The languages I'm familiar with are Python, JavaScript, HTML, CSS, PHP, Node and I'm learning Kotlin. Nice to meet you!</p>
 
 ![Raymag's github stats](https://github-readme-stats.vercel.app/api?username=raymag&show_icons=true&theme=tokyonight)
 
