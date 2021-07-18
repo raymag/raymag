@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi There! 👋</h1>
-<p> I'm Magno, a developer from Brazil with the <b>passion of building systems, tools and ideas that can be helpful for people</b>. I have experience with backend and frontend applications and I recently got into android development. Nice to meet you!</p>
+<p> I'm Magno, a developer from Brazil with the <b>passion of building systems, tools and ideas that can be helpful for people</b>. I have experience with backend and frontend applications and I'm recently trying to get into android development. Nice to meet you!</p>
 
 <p>The languages and tools I'm familiar with are:</p>
 
