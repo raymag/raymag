@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/5SAwKY8VWUlR6PC2NI/giphy.gif" >
+<img src="https://user-images.githubusercontent.com/29918030/145693984-37a84cae-4937-49f6-b93a-68302f388a4e.gif" >
 </p>
 
 <h1 align="center">Hi There! 👋</h1>
