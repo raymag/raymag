@@ -18,7 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
-![Raymag's github stats](https://github-readme-stats.vercel.app/api?username=raymag&show_icons=true&theme=tokyonight)
+![Raymag's github stats](https://github-readme-stats.vercel.app/api?username=raymag&count_private=true&show_icons=true&theme=tokyonight)
+
 
 ### You can find me on:
 - [Twitter](https://twitter.com/C_IMagno)
